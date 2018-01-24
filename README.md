@@ -55,7 +55,7 @@ The shortcuts are essential to navigate in the map.
 
 ### Camera Controls
 
-- <kbd>w</kbd> / <kbb>s</kbd> camera move forward / backward
+- <kbd>w</kbd> / <kbd>s</kbd> camera move forward / backward
 - <kbd>a</kbd> / <kbd>d</kbd> camera move left / right
 - <kbd>q</kbd> / <kbd>e</kbd> camera rotate left / right
 - <kbd>h</kbd> help
