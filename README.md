@@ -8,7 +8,7 @@
 
 This Wolf3d was created as a school project.
 
-Created in pure C. It is a imitation of the First Person Shooter game [Wolfenstein 3d](http://3d.wolfenstein.com/game_EU.php).
+Created in pure C. It is an imitation of the First Person Shooter game [Wolfenstein 3d](http://3d.wolfenstein.com/game_EU.php).
 
 ## Prerequisites
 
@@ -55,11 +55,11 @@ The shortcuts are essential to navigate in the map.
 
 ### Camera Controls
 
-<kbd>w</kbd> / <kbb>s</kbd> camera move forward / backward
-<kbd>a</kbd> / <kbd>d</kbd> camera move left / right
-<kbd>q</kbd> / <kbd>e</kbd> camera rotate left / right
-<kbd>h</kbd> help
-<kbd>esc</kbd> exit
+- <kbd>w</kbd> / <kbb>s</kbd> camera move forward / backward
+- <kbd>a</kbd> / <kbd>d</kbd> camera move left / right
+- <kbd>q</kbd> / <kbd>e</kbd> camera rotate left / right
+- <kbd>h</kbd> help
+- <kbd>esc</kbd> exit
 
 ## Contact & Copyright
 
