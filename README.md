@@ -19,7 +19,7 @@ All libraries are included.
 Clone with :
 
 ```
-git clone https://github.com/kmjaku/Wolf-3d---Wolfenstein-3d.git ~/Wolf3d
+git clone https://github.com/kmjaku/Wolf-3d.git ~/Wolf3d
 cd ~/Wolf3d
 make
 ```
