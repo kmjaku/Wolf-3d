@@ -27,7 +27,7 @@ make
 Launch Wolf3d :
 
 ```
-you have to replace 'example' in this next step by 1 or 2. 1 is for untextured and 2 is for textured
+you have to replace 'example' in this next step by 1 or 2.  1 is for untextured and 2 is for textured map
 ./wolf3d [example]
 ```
 
@@ -63,7 +63,7 @@ The shortcuts are essential to navigate in the map.
 
 ## Contact & Copyright
 
-Project done by me [Kastriot MJAKU](https://www.linkedin.com/in/kastriot-mjaku-29b675a5/). If you want to contact me, you can send me a mail at kmjaku@student.42.fr
+Project done by -> [Kastriot MJAKU](https://www.linkedin.com/in/kastriot-mjaku-29b675a5/). If you want to contact me, you can send me a mail at kmjaku@student.42.fr
 
 ### Acknowledgments
 
