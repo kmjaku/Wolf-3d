@@ -1,10 +1,10 @@
 # Wolf 3d
 
-<img align="center" src="screenshot/untextured.jpg" width="100%" />
+<img align="center" src="screenshot/textured.png" width="100%" />
 <br />
 <br />
 <br />
-<img align="center" src="screenshot/textured.jpg" width="100%" />
+<img align="center" src="screenshot/untextured.png" width="100%" />
 
 This Wolf3d was created as a school project.
 
@@ -55,7 +55,7 @@ The shortcuts are essential to navigate in the map.
 
 ### Camera Controls
 
-<kbd>w</kbd> / <kdb>s</kbd> camera move forward / backward
+<kbd>w</kbd> / <kbb>s</kbd> camera move forward / backward
 <kbd>a</kbd> / <kbd>d</kbd> camera move left / right
 <kbd>q</kbd> / <kbd>e</kbd> camera rotate left / right
 <kbd>h</kbd> help
